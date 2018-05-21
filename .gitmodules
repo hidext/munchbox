@@ -1,0 +1,4 @@
+[submodule "FOSSINFOTECH/ODOO"]
+	path = FOSSINFOTECH/ODOO
+	url = git@github.com:FOSSINFOTECH/ODOO.git
+	branch = 10.0
